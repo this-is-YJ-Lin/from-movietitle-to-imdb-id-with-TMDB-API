@@ -383,9 +383,9 @@ Invitation The
 Creed
 Que Horas Ela Volta
 Anomalisa
-Antarctic Edge 70 Degrees South
+Antarctic Edge 70 South
 Road Hard
-Tian jiang xiong shi
+Dragon Blade
 Loin des hommes
 Gift The 
 Boy The 
@@ -433,7 +433,7 @@ Oddball
 Freaks of Nature
 Looking Glass The
 Creative Control
-Siakh lokhamim ha slilim ha gnouzim
+Censored Voices
 Moonlight 
 Bitter Harvest
 Lumea e a mea
@@ -1070,7 +1070,7 @@ Happy Feet 2
 Arthur Christmas
 Adventures of Tintin The
 Madeas Big Happy Family
-Home Alone III
+Home Alone 3
 Lorax The
 Immortals
 Change Up The
@@ -1112,7 +1112,7 @@ Contagion
 Jumping the Broom 
 X Men First Class
 Drive
-Man on the Ledge
+Man on a Ledge
 Son of No One
 Young Adult
 My Week with Marilyn
@@ -1293,7 +1293,7 @@ Wont Back Down
 Giant Mechanical Man The
 Lawless 
 NASCAR The IMAX Experience
-Gangster Squad The
+Gangster Squad
 Movie 43
 Last Mimzy The
 Step Up Revolution
@@ -1357,7 +1357,7 @@ Species 2
 Despicable Me
 Crazies The 
 Last Airbender The
-Jonas Brothers 3 D Concert Movie
+Jonas Brothers
 Perriers Bounty
 Bugs
 Fighter The
@@ -1438,7 +1438,7 @@ Unstoppable
 Book of Eli The
 Clash of the Titans 
 Prince of Persia Sands of Time
-Hoodwinked 2 Hood vs Evil
+Hoodwinked Too! Hood vs. Evil
 I Love You Phillip Morris
 Wall Street 2 Money Never Sleeps
 Leaves of Grass
@@ -1454,7 +1454,7 @@ Other Guys The
 Diary of a Wimpy Kid
 Wild Safari 3D
 Oceans
-Robert Rodriguezs Predators
+Predators
 Yogi Bear
 Battle Los Angeles
 Step Up 3D
@@ -1485,7 +1485,7 @@ Warrior
 Saw VII
 Gospel The
 For Colored Girls Who Have Considered Suicide When the Rainbow is Enuf
-Wes Cravens Wishmaster
+Wishmaster
 Gunless
 Lion King The 
 Social Network The
@@ -1702,9 +1702,9 @@ Double Team
 Leave It To Beaver
 Casanova
 Mr Poppers Penguins
-Akmareul Boattda
+Akmareul Boatda
 Trolljegeren
-Cyberworld 3D
+Cyberworld
 Winnie the Pooh
 Damsels in Distress
 Surviving Christmas
@@ -1806,7 +1806,7 @@ Soloist The
 Halloween 2 
 Grande Seduction La
 Hable con ella
-Jerry Springer Ringmaster
+Ringmaster
 Fierce Creatures
 All About Steve
 Mrs Brown
@@ -1914,7 +1914,7 @@ Veronika Decides to Die
 Gentlemen Broncos
 Encounter in the Third Dimension
 Zeus and Roxanne
-Surrogates The
+Surrogates
 Where the Wild Things Are
 Before the Devil Knows Youre Dead
 Fame 
@@ -1938,7 +1938,7 @@ Red Tails
 Redline
 Maos Last Dancer
 Please Give
-Weisse Band Eine deutsche Kindergeschichte Das
+The White Ribbon
 Barneys Version
 Prophete Un
 Splice
@@ -2660,7 +2660,6 @@ Shower
 Eden Lake
 Bure baruta
 Special
-Rise and Fall of Miss Thang The
 He ni zai yi qi
 Man som hatar kvinnor
 Yi Yi
@@ -6690,8 +6689,8 @@ Dear Frankie
 Thumbsucker
 Saving Face
 Undiscovered
-Amazing Grace 
-De battre mon coeurs est arrete
+Amazing Grace
+The Beat That My Heart Skipped
 My Summer of Love
 Venom 
 Where the Truth Lies
@@ -6861,7 +6860,7 @@ I Love Your Work
 Return to the Land of Wonders
 Dark Hours The
 Frozen 
-Wal Mart The High Cost of Low Prices
+Wal Mart The High Cost of Low Price
 End of Poverty The
 Oh My God
 Are We There Yet
@@ -11054,7 +11053,7 @@ Kidnap
 Disappointments Room The
 House of Sand and Fog
 Gods and Generals
-House of 1 000 Corpses
+House of 1000 Corpses
 Confidence
 Girl with a Pearl Earring
 Crouching Tiger Hidden Dragon Sword of Destiny
@@ -13081,7 +13080,7 @@ Learning to Drive
 Overnighters The
 Advanced Style
 Im Labyrinth des Schweigens
-Revolution no 9
+Revolution 9
 Khoobsurat
 Days and Nights
 Pact 2 The
@@ -15890,7 +15889,7 @@ Lets Talk About Sex
 Hurricane Streets
 Chairman of the Board
 Shooting Fish
-Swindle The DUP
+Rien ne va plus
 Femme de chambre du Titanic La
 I Married a Strange Person
 Terrorist The
